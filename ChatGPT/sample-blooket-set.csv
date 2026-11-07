@@ -1,0 +1,11 @@
+"Blooket
+Import Template",,,,,,,
+Question #,Question Text,Answer 1,Answer 2,"Answer 3
+(Optional)","Answer 4
+(Optional)","Time Limit (sec)
+(Max: 300 Seconds)","Correct Answer(s)
+(Only Include Answer #)"
+1,The green pigment that absorbs light in plants is called ____.,chlorophyll,chloroplast,stomata,glucose,20,1
+2,Where do the light reactions of photosynthesis happen?,Mitochondria,Thylakoid membranes,Nucleus,Cell wall,20,2
+3,Which gas do plants take in for photosynthesis?,Oxygen,Nitrogen,Carbon dioxide,Helium,20,3
+4,Which are products of photosynthesis? (pick all),Glucose,Carbon dioxide,Oxygen,Water,30,"1,3"
